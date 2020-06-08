@@ -1,7 +1,7 @@
 from fractions import Fraction as frac
 from collections import defaultdict
 
-
+#1-st task 
 class Array:
     def __init__(self, size=0, elements=[]):
         self.size = size
